@@ -9,6 +9,6 @@ while(true)
     li=document.createElement("li");
     li.innerHTML=data;
     ul.appendChild(li);
-    alert(""+li.innerHTML+"");
+    
     
 }
